@@ -46,6 +46,10 @@ other plotting tool.
 different data sets to the model built and explore the outcomes with different parameters
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Code](phase3/script.py)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Report](phase3/DIC_PHASE_3.pdf)
 
+
+
+
+
 ### [Model Selection Criteria](Model Selection Criteria) :
 <img src="images/bar.jpeg" alt="bar.jpeg" width="1100" height="3"> <br>
 
@@ -57,6 +61,9 @@ During phase 2 we have trained the models on a sample of dataset due to limited 
 
 In this phase, in our react app, we have used Microsoft Power BI for visualization and to display the analysis on the dataset.
 
+
+
+
 ### [Problem Statement Analysis](Problem Statement Analysis) :
 <img src="images/bar.jpeg" alt="bar.jpeg" width="1100" height="3"> <br>
 
@@ -66,10 +73,14 @@ There are patterns in the hours, places, and weather when the majority of occurr
 
 The following are the questions that will be addressed and which will add to our issue: When do accidents most frequently happen? Daylight against nighttime, Monday through Friday versus weekends, and Peak time Where are accidents most likely to happen? Location, County, City, Zip Code, and Street Side What kind of weather has the highest accident rate? The most dangerous weather for accidents, the three weather conditions that cause accidents the most, and the weather's severity in each accident.
 
+
+
 ### [Recommendations](Recommendations) :
 <img src="images/bar.jpeg" alt="bar.jpeg" width="1100" height="3"> <br>
 
 The US government should limit the number of vehicles on the road. This can be accomplished by enhancing public transit by putting new modes of transportation, such as bullet trains, the hyperloop, and high-speed trains between key cities in California and Texas, into operation. These states have a higher accident rate due to the greater number of automobiles on the roads. The government should also consider the weather conditions while road construction and public transport availability. As places with more rain like Florida has the maximum number of accidents, therefore, the roads should be well constructed and proper placements of traffic controls should be there. The government should take new automobiles that can withstand high speed entering the market into account when building roadways. According to US Accident insights, Weekends had the maximum number of accidents and a major factor for this can be drunk driving. The legal system needs to update and strengthen state-by-state drunk driving sanctions. Additionally, in order to inculcate discipline among the populace, the government should see to it that those found breaking traffic laws face harsh legal penalties.
+
+
 
 ### [Future Work](Future Work) :
 <img src="images/bar.jpeg" alt="bar.jpeg" width="1100" height="3"> <br>
