@@ -82,7 +82,7 @@ The US government should limit the number of vehicles on the road. This can be a
 
 
 
-### [Future Work](Future Work) :
+### [Recommendations](Recommendations) :
 <img src="images/bar.jpeg" alt="bar.jpeg" width="1100" height="3"> <br>
 
 A significant portion of research has been devoted to the analysis and forecasting of traffic accidents, a major public safety concern. We were able to determine accident-causing factors. Numerous insights into the place, time, weather, and nearby areas of interest of an accident are discovered from this dataset. We were able to determine the most advantageous month, day, and hour for travel. Additionally, it enables us to foresee where accidents are most likely to occur in each state. In terms of our future work, We can make this platform accessible to the public and state governments so that it is readily available. This platform can be modified to meet certain issues facing the state's people and administration. To achieve a more current analysis, live data must be loaded into this application and launched on a website. The public can anticipate an accident location by using our machine-learning model using the source and destination locations, as well as the date and time of transit. The number of accidents that occur in the US may be decreased with the aid of this kind of prediction model. The prediction model may include a number of neural network-based elements that make use of a range of data properties, including traffic-related events, meteorological data, sites of interest, and time information.
