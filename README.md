@@ -4,6 +4,8 @@
   <b> CSE-587: Data Intensive Computing</b>
 </p>
 
+<iframe title="kajol_DIC" width="1024" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiZmJhNDg5YTUtNTFhNC00NjJiLWFjMjYtODlmZmRmOTM3YjY3IiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+
 ### [Phase_01](Phase_01) :
 <img src="images/bar.jpeg" alt="bar.jpeg" width="1100" height="3"> <br>
 
