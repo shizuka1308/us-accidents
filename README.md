@@ -1,7 +1,7 @@
 # Fall 2022
 <p align="center">
 <img src="images/ub.png" alt="ub_logo.jpg" width="100" height="100"> <br>
-  <b> Data Intensive Computing</b>
+  <b> Data Intensive Computing - US ACCIDENTS DATA ANALYSIS</b>
 </p>
 
 Link to dataset: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
